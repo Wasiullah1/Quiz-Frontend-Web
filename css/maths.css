@@ -1,0 +1,153 @@
+body{
+    margin: 0px;
+}
+#logo{
+    margin: 20px 20px;
+    display:flex; 
+    flex-direction: row;
+    justify-content: center;
+}
+#adiv{
+    display:flex; 
+    flex-direction: column;
+    background-color: lightgreen;
+}
+#title1{
+    font-size:50px;
+    color: rgb(202, 157, 73);
+}
+#qdiv1{
+    background-color: peru;
+    border: black; 
+    border-style: solid; 
+    display:flex; 
+    flex-direction: column;
+    justify-content: center;
+    /* margin:50px 400px; */
+    width: 600px;
+    color: aqua;
+    font-size:30px;
+
+}
+#qdiv2{
+    background-color: peru;
+    border: black; 
+    border-style: solid; 
+    display:flex; 
+    flex-direction: column;
+    justify-content: center;
+    /* margin:50px 400px; */
+    width: 600px;
+    color: aqua;
+    font-size:30px;
+
+}
+#qdiv3{
+    background-color: peru;
+    border: black; 
+    border-style: solid; 
+    display:flex; 
+    flex-direction: column;
+    justify-content: center;
+    /* margin:50px 400px; */
+    width: 600px;
+    color: aqua;
+    font-size:30px;
+
+}
+#qdiv4{
+    background-color: peru;
+    border: black; 
+    border-style: solid; 
+    display:flex; 
+    flex-direction: column;
+    justify-content: center;
+    /* margin:50px 400px; */
+    width: 600px;
+    color: aqua;
+    font-size:30px;
+
+}
+#time{
+    margin: 10px 0px;
+    font-size:20px;
+    display:flex; 
+    flex-direction: row;
+    justify-content: center;
+    color: red;
+}
+#time1{
+    font-size:20px;
+    display:flex; 
+    flex-direction: row;
+    justify-content: center;
+    color: red;
+}
+#time2{
+    font-size:20px;
+    display:flex; 
+    flex-direction: row;
+    justify-content: center;
+    color: red;
+}
+#time3{
+    font-size:20px;
+    display:flex; 
+    flex-direction: row;
+    justify-content: center;
+    color: red;
+}
+#time4{
+    font-size:20px;
+    display:flex; 
+    flex-direction: row;
+    justify-content: center;
+    color: red;
+}
+#btn1{
+    width: 350px; 
+    height: 50px;
+    margin-top: 20px;
+    /* margin-left: 500px; */
+    border-radius: 20px; 
+    background-color: rgb(189, 148, 71);
+}
+#btn2{
+    width: 350px; 
+    height: 50px;
+    margin-top: 20px;
+    /* margin-left: 500px; */
+    border-radius: 20px; 
+    background-color: rgb(189, 148, 71);
+}
+#btn3{
+    width: 350px; 
+    height: 50px;
+    margin-top: 20px;
+    /* margin-left: 500px; */
+    border-radius: 20px; 
+    background-color: rgb(189, 148, 71);
+}
+    
+#btn4{
+    width: 350px; 
+    height: 50px;
+    margin-top: 20px;
+    /* margin-left: 500px; */
+    border-radius: 20px; 
+    background-color: orangered;
+}
+#result{
+    background-color: peru;
+    border: black; 
+    border-style: solid; 
+    display:flex; 
+    flex-direction: row;
+    justify-content: center;
+    /* margin:50px 400px; */
+    width: 600px;
+    color: aqua;
+    font-size:30px;
+}
+    
+    
